@@ -1,0 +1,8 @@
+export TF_VAR_subscription_id=79dad3ab-4067-4bd9-b39e-49d12ee9e8dc
+export TF_VAR_client_id=bed7bbef-47fc-44d9-8090-fe12eb88881a
+export TF_VAR_client_secret=a7caa722-1839-43b7-b0f7-2754c6668a7d
+export TF_VAR_tenant_id=e569f29e-b098-4cea-b6f0-48fa8532d64a
+export TF_VAR_username=kostas
+export TF_VAR_password=Kostas123
+export TF_VAR_location=eastus
+export TF_VAR_rg_prefix=demo
